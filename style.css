@@ -1,0 +1,141 @@
+body{
+    background-color: #FCFFFC;
+    font-size: 24px;
+    font-family: arial;
+    padding: 0px;
+    margin: 0px;
+    color: #FCFFFC;
+}
+.menu{
+    display: none;
+    right: 1%;
+}
+.buttonMenu{
+    background-color: #2D3A3A;
+    height: 80%;
+    width: 10em;
+    position: absolute;
+    font-size: 1.5em;
+    top: 10%;
+    right: 1%;
+    width: 5em;
+    color: white;
+    border: none;
+}
+.menu ul{
+    list-style:none;
+    right: 1%;
+}
+.barra-principal{
+    display: grid;
+    background-color: #2BA84A;
+    height: 6em;
+    position: relative;
+    padding: 0 0 0 0;
+}
+.barraBusqueda{
+    display: inline-flex;
+    position: absolute;
+    top: 50%;
+    left:20%;
+    transform: translate(0, -50%);
+}
+.busquedaGeneral{
+    font-size: 4em;
+    text-align: center;
+    width: 100%;
+    margin: none;
+    text-decoration: none;
+    overflow: hidden;
+    display: block;
+    margin: 0;
+    text-transform:uppercase;
+    border: none;
+}
+
+.buttonBusqueda{
+    background-color: #2D3A3A;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    width: 5em;
+    padding: 0px 0px 0px 0px;
+
+
+}
+.endSesion{
+    background-color: #2D3A3A;
+    height: 80%;
+    width: 10em;
+    position: absolute;
+    font-size: 1.5em;
+    top: 10%;
+    left: 1%;
+    width: 5em;
+    color: white;
+    border: none;
+}
+.tarjeta{
+    background-color: #FCFFFC;
+    margin: 20px 20px 20px 20px;
+    position: relative;
+    height: 10em;
+    color: #2D3A3A;
+    -webkit-box-shadow: 1px 1px 22px -9px rgba(0,0,0,1);
+    -moz-box-shadow: 1px 1px 22px -9px rgba(0,0,0,1);
+    box-shadow: 1px 1px 22px -9px rgba(0,0,0,1);
+    padding: 10px 10px 10px 10px;
+}
+.tarjeta ul{
+    list-style:none;
+}
+.placa{
+    font-size: 4em;
+    text-align: center;
+    text-transform:uppercase;
+    background-color: #2D3A3A;
+    margin:0;
+    padding:0;
+    height: 50%;
+    width: 100%;
+    position: absolute;
+    top:0px;
+    color: white;
+    left: 0px;
+}
+.tiempo{
+    font-size: 2em;
+    text-align: center;
+    text-transform:uppercase;
+    margin:0;
+    padding:0;
+    height: 25%;
+    width: 100%;
+    position: absolute;
+    top:50%;
+    left: 0px;
+}
+.subtotal{
+    font-size: 2em;
+    text-align: center;
+    text-transform:uppercase;
+    margin:0;
+    padding:0;
+    height: 25%;
+    width: 90%;
+    position: absolute;
+    top:75%;
+    left: 5%;
+    border-top-width: 80%;
+    border-top: 1px solid #9DA3A8;
+
+}
+
+.tarjeta-veiculo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+
+}
