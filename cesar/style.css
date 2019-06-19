@@ -1,0 +1,114 @@
+body{
+    background-color: #333533;
+    font-size: 24px;
+    margin: 0px;
+}
+.front{
+    position: absolute;
+    left: 10%;
+    width: 80%;
+    left: 10%;
+    top: 0%;
+
+}
+.intro{
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    height: 20%;
+    margin: 2%;
+    -webkit-box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    -moz-box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    padding: 0.5em;
+}
+.in{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 0.5em;
+    height: 30%;
+    margin: 2%;
+    -webkit-box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    -moz-box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+}
+.in-user{
+    background-color: #fff;
+    height: 50%;
+    margin: 2%;
+}
+.back{
+    height: 40vw;
+    width: 100%;
+    background-color: #23CE6B;
+    margin: 0px;
+    -webkit-box-shadow: 0px 10px 19px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 19px 4px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 19px 4px rgba(0,0,0,0.75);
+}
+#text-in{
+    font-size: 3vw;
+    height: 10vw;
+    width: 100%;
+    text-decoration: none;
+    border: none;
+    margin: 1%;
+    overflow: scroll;
+}
+.kigual{
+    display: flex;
+    flex: 1;
+    font-size: 3em;
+    margin: 10px;
+}
+#k-in{
+    flex: 8;
+    font-size: 5vw;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    border: none;
+    margin: 1%;
+}
+.out{
+    background-color: #fff;
+    border-radius: 5px;
+    height: 20%;
+    margin: 2%;
+    -webkit-box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    -moz-box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.29);
+    padding: 0.5em;
+}
+.encriptar{
+    margin: 0.5em;
+	background-color:#44c767;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:15px 36px;
+	text-decoration:none;
+	text-shadow:0px 2px 3px #2f6627;
+}
+.decriptar{
+    margin: 0.5em;
+	background-color:#44c767;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:15px 36px;
+	text-decoration:none;
+	text-shadow:0px 2px 3px #2f6627;
+}
