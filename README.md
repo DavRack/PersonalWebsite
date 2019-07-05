@@ -1008,16 +1008,16 @@
 # Gramática
 |tema|link|
 |----|----|
-|Adjetivos, Pronombres y Adverbios|"https://www.europassitalian.com/es/aprender-italiano/gramatica/adjetivos-pronombres-adverbios/"|
-|Artículos, Género y Número|"https://www.europassitalian.com/es/aprender-italiano/gramatica/articulos-genero-numero/"|
-|Comparativos y Superlativos|"https://www.europassitalian.com/es/aprender-italiano/gramatica/comparativos-y-superlativos/"|
-|Ejercicios de Gramática Italiana|"https://www.europassitalian.com/es/aprender-italiano/gramatica/ejercicios/"|
-|Forma Impersonal y Forma Pasiva|"https://www.europassitalian.com/es/aprender-italiano/gramatica/forma-impersonal-y-forma-pasiva/"|
-|Los Pronombres y las Partículas Pronominales italianos|"https://www.europassitalian.com/es/aprender-italiano/gramatica/los-pronombres-y-las-particulas-pronominales-italianos/"|
-|Modos y Tiempos Verbales Italianos|"https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/"|
-|El Condicional en Italiano – Il Modo Condizionale|"https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/condicional/"|
-|El Gerundio en Italiano – Il Modo Gerundio|"https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/gerundio/"|
-|El Imperativo en Italiano – Il Modo Imperativo|"https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/imperativo/"|
-|El Indicativo en Italiano – Il Modo Indicativo|"https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/indicativo/"|
-|El Subjuntivo en Italiano – Il Modo Congiuntivo|"https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/subjuntivo/"|
-|Preposiciones y Artículo Partitivo|"https://www.europassitalian.com/es/aprender-italiano/gramatica/preposiciones-y-articulo-partitivo/"|
+|Adjetivos, Pronombres y Adverbios|https://www.europassitalian.com/es/aprender-italiano/gramatica/adjetivos-pronombres-adverbios/|
+|Artículos, Género y Número|https://www.europassitalian.com/es/aprender-italiano/gramatica/articulos-genero-numero/|
+|Comparativos y Superlativos|https://www.europassitalian.com/es/aprender-italiano/gramatica/comparativos-y-superlativos/|
+|Ejercicios de Gramática Italiana|https://www.europassitalian.com/es/aprender-italiano/gramatica/ejercicios/|
+|Forma Impersonal y Forma Pasiva|https://www.europassitalian.com/es/aprender-italiano/gramatica/forma-impersonal-y-forma-pasiva/|
+|Los Pronombres y las Partículas Pronominales italianos|https://www.europassitalian.com/es/aprender-italiano/gramatica/los-pronombres-y-las-particulas-pronominales-italianos/|
+|Modos y Tiempos Verbales Italianos|https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/|
+|El Condicional en Italiano – Il Modo Condizionale|https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/condicional/|
+|El Gerundio en Italiano – Il Modo Gerundio|https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/gerundio/|
+|El Imperativo en Italiano – Il Modo Imperativo|https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/imperativo/|
+|El Indicativo en Italiano – Il Modo Indicativo|https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/indicativo/|
+|El Subjuntivo en Italiano – Il Modo Congiuntivo|https://www.europassitalian.com/es/aprender-italiano/gramatica/modos-y-tiempos-verbales/subjuntivo/|
+|Preposiciones y Artículo Partitivo|https://www.europassitalian.com/es/aprender-italiano/gramatica/preposiciones-y-articulo-partitivo/|
